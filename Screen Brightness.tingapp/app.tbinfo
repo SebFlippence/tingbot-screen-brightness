@@ -1,0 +1,8 @@
+{
+    "name": "Screen Brightness",
+    "author": "sebflipper",
+    "caption": "Sets the brightness of your Tingbot screen",
+    "version": "1.0.0",
+    "website": "https://github.com/sebflipper/tingbot-screen-brightness",
+    "background_color": "217aef"
+}
